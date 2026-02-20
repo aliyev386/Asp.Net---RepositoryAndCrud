@@ -1,0 +1,12 @@
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\EShop.Domain.sourcelink.json
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Aliye_Oa18\Source\Repos\EShoppp\Core\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
