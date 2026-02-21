@@ -1,26 +1,36 @@
-using EShop.Application;
+
+using FluentValidation;
 using EShop.Persistence;
-using System.Text.Json.Serialization;
+using EShop.Application.Validations.FluentValidation.Concrete;
+using EShop.Application;
+using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 // Add services to the container.
 
-builder.Services.AddControllers()
-       .AddJsonOptions(opt =>
-       {
-           opt.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
-       });
-
+builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder.Services.AddValidatorsFromAssemblyContaining<CustomerValidator>();
+builder.Services.AddValidatorsFromAssemblyContaining<CategoryValidator>();
+builder.Services.AddValidatorsFromAssemblyContaining<OrderValidator>();
+builder.Services.AddValidatorsFromAssemblyContaining<ProductValidator>();
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 
 builder.Services.AddApplicationRegister();
 builder.Services.AddPersistenceRegister(builder.Configuration);
 
-
+builder.Services.AddControllers()
+.AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.ReferenceHandler =
+        System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9EC89F-4766-452E-8FD5-F15D20BECA05}|Presentation\\EShop.WebAPI\\EShop.WebAPI.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\presentation\\eshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9EC89F-4766-452E-8FD5-F15D20BECA05}|Presentation\\EShop.WebAPI\\EShop.WebAPI.csproj|solutionrelative:presentation\\eshop.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9EC89F-4766-452E-8FD5-F15D20BECA05}|Presentation\\EShop.WebAPI\\EShop.WebAPI.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\presentation\\eshop.webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9EC89F-4766-452E-8FD5-F15D20BECA05}|Presentation\\EShop.WebAPI\\EShop.WebAPI.csproj|solutionrelative:presentation\\eshop.webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7ACC2B-9FB1-4EF1-8DC3-A0E78DF36562}|Core\\EShop.Domain\\EShop.Domain.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.domain\\entities\\concretes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7ACC2B-9FB1-4EF1-8DC3-A0E78DF36562}|Core\\EShop.Domain\\EShop.Domain.csproj|solutionrelative:core\\eshop.domain\\entities\\concretes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C0CEE-21F0-4EB5-965A-13DB22440173}|Infrastructure\\EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\infrastructure\\eshop.persistence\\services\\concretes\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C0CEE-21F0-4EB5-965A-13DB22440173}|Infrastructure\\EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:infrastructure\\eshop.persistence\\services\\concretes\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.application\\dtos\\customer\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|solutionrelative:core\\eshop.application\\dtos\\customer\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9EC89F-4766-452E-8FD5-F15D20BECA05}|Presentation\\EShop.WebAPI\\EShop.WebAPI.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\presentation\\eshop.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9EC89F-4766-452E-8FD5-F15D20BECA05}|Presentation\\EShop.WebAPI\\EShop.WebAPI.csproj|solutionrelative:presentation\\eshop.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.application\\services\\abstracts\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|solutionrelative:core\\eshop.application\\services\\abstracts\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.application\\dtos\\product\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|solutionrelative:core\\eshop.application\\dtos\\product\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.application\\dtos\\customer\\allcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|solutionrelative:core\\eshop.application\\dtos\\customer\\allcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.application\\dtos\\customer\\addcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|solutionrelative:core\\eshop.application\\dtos\\customer\\addcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.application\\services\\abstracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F94E1D7-AFC0-40C9-9BFA-C3C1DCF34186}|Core\\EShop.Application\\EShop.Application.csproj|solutionrelative:core\\eshop.application\\services\\abstracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7ACC2B-9FB1-4EF1-8DC3-A0E78DF36562}|Core\\EShop.Domain\\EShop.Domain.csproj|c:\\users\\omer\\source\\repos\\asp.net---repositoryandcrud\\core\\eshop.domain\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7ACC2B-9FB1-4EF1-8DC3-A0E78DF36562}|Core\\EShop.Domain\\EShop.Domain.csproj|solutionrelative:core\\eshop.domain\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Presentation\\EShop.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\EShop.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Presentation\\EShop.WebAPI\\Program.cs",
+              "RelativeToolTip": "Presentation\\EShop.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T22:44:49.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Product\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Application\\DTOS\\Product\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Product\\AddProductDto.cs",
+              "RelativeToolTip": "Core\\EShop.Application\\DTOS\\Product\\AddProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:39:14.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Presentation\\EShop.WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Presentation\\EShop.WebAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Presentation\\EShop.WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Presentation\\EShop.WebAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:30:34.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Infrastructure\\EShop.Persistence\\Services\\Concretes\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EShop.Persistence\\Services\\Concretes\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Infrastructure\\EShop.Persistence\\Services\\Concretes\\CustomerService.cs",
+              "RelativeToolTip": "Infrastructure\\EShop.Persistence\\Services\\Concretes\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:51:22.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Customer\\UpdateCustomerDto.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Application\\DTOS\\Customer\\UpdateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Customer\\UpdateCustomerDto.cs",
+              "RelativeToolTip": "Core\\EShop.Application\\DTOS\\Customer\\UpdateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:38:19.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Customer\\AllCustomerDto.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Application\\DTOS\\Customer\\AllCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Customer\\AllCustomerDto.cs",
+              "RelativeToolTip": "Core\\EShop.Application\\DTOS\\Customer\\AllCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:37:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Customer\\AddCustomerDto.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Application\\DTOS\\Customer\\AddCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\DTOS\\Customer\\AddCustomerDto.cs",
+              "RelativeToolTip": "Core\\EShop.Application\\DTOS\\Customer\\AddCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:38:00.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\Services\\Abstracts\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Application\\Services\\Abstracts\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\Services\\Abstracts\\ICustomerService.cs",
+              "RelativeToolTip": "Core\\EShop.Application\\Services\\Abstracts\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:35:54.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Presentation\\EShop.WebAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Presentation\\EShop.WebAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Presentation\\EShop.WebAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Presentation\\EShop.WebAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:32:21.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\Services\\Abstracts\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Application\\Services\\Abstracts\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Application\\Services\\Abstracts\\IOrderService.cs",
+              "RelativeToolTip": "Core\\EShop.Application\\Services\\Abstracts\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:36:47.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Domain\\Entities\\Concretes\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Domain\\Entities\\Concretes\\Category.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Domain\\Entities\\Concretes\\Category.cs",
+              "RelativeToolTip": "Core\\EShop.Domain\\Entities\\Concretes\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:24:44.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Domain\\Entities\\Concretes\\Customer.cs",
+              "RelativeDocumentMoniker": "Core\\EShop.Domain\\Entities\\Concretes\\Customer.cs",
+              "ToolTip": "C:\\Users\\Omer\\source\\repos\\Asp.Net---RepositoryAndCrud\\Core\\EShop.Domain\\Entities\\Concretes\\Customer.cs",
+              "RelativeToolTip": "Core\\EShop.Domain\\Entities\\Concretes\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:25:48.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
