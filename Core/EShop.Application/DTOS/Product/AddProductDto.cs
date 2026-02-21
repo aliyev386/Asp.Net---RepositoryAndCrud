@@ -9,5 +9,3 @@ public class AddProductDto
 
     public int CategoryId { get; set; }
 }
-//categorynin icinde list seklinde productlari saxla 
-//orderin icindede costumeri
